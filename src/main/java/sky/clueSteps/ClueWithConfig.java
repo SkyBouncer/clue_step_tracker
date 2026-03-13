@@ -194,7 +194,8 @@ enum ClueWithConfig
 			28914,
 			29853,
 			29854,
-			30928
+			30928,
+			31268
 	};
 
 	private static final int[] mediumIDs = {
@@ -362,7 +363,9 @@ enum ClueWithConfig
 			29857,
 			29858,
 			30933,
-			30935
+			30935,
+			31274,
+			31275
 	};
 
 	private static final int[] hardIDs = {
@@ -550,7 +553,9 @@ enum ClueWithConfig
 			28918,
 			29859,
 			30929,
-			30931
+			30931,
+			31272,
+			31273
 	};
 
 	private static final int[] eliteIDs = {
@@ -687,7 +692,10 @@ enum ClueWithConfig
 			28912,
 			29855,
 			29856,
-			30932
+			30932,
+			31269,
+			31270,
+			31271
 	};
 
 	private static final int[] masterIDs = {
